@@ -5,7 +5,7 @@
      <h4>  💜 Tenho 21 anos  📚 Estou cursando S.I.  ✨ Buscando estágio na área de front-end </h3>
   </div>
   <div>
-    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=MariiGonzalez&show_icons=true&title_color=F7B6AD&icon_color=F57662&border_color=75382F&bg_color=DEG,644B47,C25D4E&text_color=FFFFFF">
+    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=MariiGonzalez&show_icons=true&title_color=D1817B&icon_color=D1817B&border_color=D1817B&bg_color=F6B69F&text_color=FFFFFF">
   </div>
 </div>
 
@@ -13,7 +13,7 @@
 
 <div>
   <div align="center">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiGonzalez&bg_color=DEG,644B47,C25D4E&text_color=FFFFFF&title_color=F7B6AD&icon_color=F57662&border_color=75382F">
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariiGonzalez&bg_color=BBF69F&text_color=000000&title_color=6FB270&icon_color=6FB270&border_color=6FB270">
   </div>
   <div align="center">
     <img align="center" height="60px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
